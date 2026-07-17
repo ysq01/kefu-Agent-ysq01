@@ -89,7 +89,6 @@ FastAPI 后端
           |-- data/eval/history/*.json
 ```
 
-更多说明见 [系统架构文档](docs/architecture.md) 和 [演示指南](docs/demo-guide.md)。
 
 ## 功能页面
 
